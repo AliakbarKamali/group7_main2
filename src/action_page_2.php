@@ -15,5 +15,6 @@
        <form action="category/CP.php"><input type="submit" value ="Career planning" name="CP"  class="btn btn-outline-primary"><hr></form>
        <form action="category/CD.php"><input type="submit" value ="Customer orientation" name="CD"  class="btn btn-outline-primary"><hr></form>
        </nav>
+fnfgnfn
 
 <?php include('footer.php'); ?>
